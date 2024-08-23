@@ -1,9 +1,9 @@
-﻿using Backend.Api.Models;
-using Backend.Api.Services;
+﻿using TdmPrototypeCdsSimulator.Models;
+using TdmPrototypeCdsSimulator.Services;
 using FluentValidation;
 using FluentValidation.Results;
 
-namespace Backend.Api.Endpoints;
+namespace TdmPrototypeCdsSimulator.Endpoints;
 
 public static class LibraryEndpoints
 {

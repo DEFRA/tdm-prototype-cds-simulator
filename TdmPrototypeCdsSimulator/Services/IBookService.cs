@@ -1,6 +1,6 @@
-﻿using Backend.Api.Models;
+﻿using TdmPrototypeCdsSimulator.Models;
 
-namespace Backend.Api.Services;
+namespace TdmPrototypeCdsSimulator.Services;
 
 public interface IBookService
 {

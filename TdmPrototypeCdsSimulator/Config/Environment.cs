@@ -1,4 +1,4 @@
-namespace Backend.Api.Config;
+namespace TdmPrototypeCdsSimulator.Config;
 
 public static class Environment
 {

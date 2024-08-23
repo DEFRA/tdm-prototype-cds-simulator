@@ -1,8 +1,8 @@
-﻿using Backend.Api.Data;
-using Backend.Api.Models;
+﻿using TdmPrototypeCdsSimulator.Data;
+using TdmPrototypeCdsSimulator.Models;
 using MongoDB.Driver;
 
-namespace Backend.Api.Services;
+namespace TdmPrototypeCdsSimulator.Services;
 
 public class BookService : MongoService<Book>, IBookService
 {

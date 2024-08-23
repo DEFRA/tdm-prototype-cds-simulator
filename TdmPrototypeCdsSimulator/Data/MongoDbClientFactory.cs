@@ -1,7 +1,7 @@
 using MongoDB.Bson.Serialization.Conventions;
 using MongoDB.Driver;
 
-namespace Backend.Api.Data;
+namespace TdmPrototypeCdsSimulator.Data;
 
 public class MongoDbClientFactory : IMongoDbClientFactory
 {

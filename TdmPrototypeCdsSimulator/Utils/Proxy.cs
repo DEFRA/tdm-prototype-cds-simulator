@@ -1,6 +1,6 @@
 using Serilog.Core;
 
-namespace Backend.Api.Utils;
+namespace TdmPrototypeCdsSimulator.Utils;
 
 public static class Proxy
 {

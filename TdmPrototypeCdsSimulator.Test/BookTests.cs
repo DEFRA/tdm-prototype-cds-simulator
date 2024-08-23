@@ -1,8 +1,8 @@
-using Backend.Api.Models;
-using Backend.Api.Validators;
+using TdmPrototypeCdsSimulator.Models;
+using TdmPrototypeCdsSimulator.Validators;
 using MongoDB.Bson;
 
-namespace Backend.Api.Test;
+namespace TdmPrototypeCdsSimulator.Test;
 
 using FluentValidation.TestHelper;
 
